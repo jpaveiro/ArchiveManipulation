@@ -5,6 +5,7 @@
 # Futuras atualizações ⚙️
 #### - Será implementado interface;
 #### - Novas funções;
+#### - Melhorias;
 #### - Etc.
 
 # Licença 🪪
